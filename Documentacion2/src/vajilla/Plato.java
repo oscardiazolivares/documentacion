@@ -1,6 +1,10 @@
 package vajilla;
 
-
+/**
+ * Clase que representa un Plato. Puede llenarse y vaciarse.
+ * @author d13diolo
+ *
+ */
 public class Plato {
 	
 	private static final int CAPACIDAD_MAXIMA = 200;

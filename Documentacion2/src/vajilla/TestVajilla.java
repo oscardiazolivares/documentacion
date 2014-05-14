@@ -3,7 +3,11 @@ package vajilla;
 import utiles.Menu;
 import utiles.Teclado;
 
-
+/**
+ * Clase de prueba para comprobar la funcionalidad de las clases Vajilla y Plato.
+ * @author d13diolo
+ *
+ */
 class TestVajilla {
 
 	

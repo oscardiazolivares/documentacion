@@ -2,6 +2,11 @@ package vajilla;
 
 import utiles.Teclado;
 
+/**
+ * Clase que representa una vajilla.
+ * @author d13diolo
+ *
+ */
 public class Vajilla {
 	
 	private Plato[] platos;
